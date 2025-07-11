@@ -1,1 +1,1 @@
-# paint-github-subscription-22eb1
+# My little proj
